@@ -1,0 +1,19 @@
+@import "tailwindcss";
+*{
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Toast css*/
+
+.toastClass{
+ font-size: 1.3rem;
+ font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+html{
+  font-size: 72.5%;
+}
+
+
